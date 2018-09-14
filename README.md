@@ -5,3 +5,5 @@
 >  [项目体验链接](https://jgchenu.github.io/vue-shopcar/)
 
 > [该源码教程视频](http://www.imooc.com/learn/796)
+
+注：示例运行时可能造成跨域问题，请使用webstorm！
